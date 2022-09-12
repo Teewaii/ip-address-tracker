@@ -4,4 +4,11 @@
   margin: 0;
   padding: 0;
   font-family: "Rubik", sans-serif;
+}
+
+.topBanner {
+  border: 1px solid red;
+}
+.topBanner .pattern img {
+  width: 100vw;
 }/*# sourceMappingURL=Main.css.map */
