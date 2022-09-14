@@ -1,13 +1,15 @@
 import logo from './logo.svg';
 // import './App.css';
 import Main from './components/main/Main';
-import Search from './components/search/Search';
+// import Map from './components/map/Map';
+
 
 
 function App() {
   return (
     <div className="App">
       <Main />
+     {/* <Map/> */}
     </div>
   );
 }
